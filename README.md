@@ -19,13 +19,13 @@ Redis Exporter collects Redis server metrics and exports them in a Prometheus co
 Open your web browser and navigate to http://localhost:9121/metrics to view the exported metrics
 
 
-# Cadvisor
+## Cadvisor
 
 Cadvisor provides container resource usage and performance analysis. It can be used together with Prometheus to monitor container resources such as CPU and memory usage
 
 Open your web browser and navigate to http://localhost:8080/metrics to view the exported metrics
 
-# Postgres Exporter
+## Postgres Exporter
 
 Postgres Exporter exports Postgres server metrics in a Prometheus compatible format. It can be used together with Prometheus to monitor Postgres server resources such as database connections and table usage
 
